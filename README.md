@@ -1,25 +1,26 @@
 # EDA_cuisinedata
 Explonatory data analysis on a restuarant's cuisines' reviews databases. 
 	This data is a collection of customers’ ratings for a restaurant’s different cuisines.
+ 
 EDA plan for Cuisines’ ratings:
-	Getting the info of the data 
-	Describe the features and understanding the data.
-	Finding correlations.
-	Data cleaning (handling messy data (Missing and duplicate data))
-	Get the skewness and visualization before and after one of the succeeded method of those (log transformation – square root- stats. boxcox).
-	Feature Scaling (MinMaxScalar- StandardScalar)
-	Data Wrangling:
-	Selecting and renaming columns.
-	Splitting the columns.
-	Changing to date time.
-	 Data filtering (with logical operators- multiple conditions- group by)
-	Feature Engineering & variable transformation:
-	Variable transformation
-	Log & polynomial transformation.
-	Scaling:
+	** Getting the info of the data 
+	** Describe the features and understanding the data.
+	** Finding correlations.
+	** Data cleaning (handling messy data (Missing and duplicate data))
+	** Get the skewness and visualization before and after one of the succeeded method of those (log transformation – square root- stats. boxcox).
+	** Feature Scaling (MinMaxScalar- StandardScalar)
+	** Data Wrangling:
+	        Selecting and renaming columns.
+		Splitting the columns.
+		Changing to date time.
+	 ** Data filtering (with logical operators- multiple conditions- group by)
+	** Feature Engineering & variable transformation:
+	** Variable transformation
+	** Log & polynomial transformation.
+	** Scaling:
 	(min – max)
 	Robust
-	Encoding: (non-numeric  numeric )
+	** Encoding: (non-numeric  numeric )
 	Binary
 	One-hot 
 	Ordinal
