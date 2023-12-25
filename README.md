@@ -1,21 +1,7 @@
 # EDA_cuisinedata
 Explonatory data analysis on a restuarant's cuisines' reviews databases. 
-	This data is a collection of customers’ ratings for a restaurant’s different cuisines. It contains:
-	 User id of customer.
-	Area Code.
-	Location of the customer.
-	Gender of the customer.
-	Born Year of the customer. 
-	Customer Career.
-	Budget spent in the restaurant. 
-	Cuisines most-ordered or preferred at the restaurant.
-	Alcohol Company with the order.
-	Smoking or not.
-	Food rating
-	Service rating
-	Overall rating
-	Regular visitor
-	EDA plan for Cuisines’ ratings:
+	This data is a collection of customers’ ratings for a restaurant’s different cuisines.
+EDA plan for Cuisines’ ratings:
 	Getting the info of the data 
 	Describe the features and understanding the data.
 	Finding correlations.
